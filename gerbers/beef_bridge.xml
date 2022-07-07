@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/Users/anuejn/Developer/beef_bridge/beef_bridge.kicad_sch</source>
+    <date>2022 July 07, Thursday 18:40:24</date>
+    <tool>Eeschema (6.0.6-1)-1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>beef_bridge.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="beef_bridge.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c271b9b8-d7e6-4948-b160-686d45b682b6</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>120uF</value>
+      <footprint>Capacitor_THT:CP_Radial_D18.0mm_P7.50mm</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="beef_bridge.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8619b80f-1d35-4d35-8f8c-75ae99c71a7f</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>120uF</value>
+      <footprint>Capacitor_THT:CP_Radial_D18.0mm_P7.50mm</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="beef_bridge.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>886a9f2c-260c-4cb0-ad6f-cebf1b63f619</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="beef_bridge.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>417cd029-4eda-4263-9271-1a41f56de0b0</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="beef_bridge.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7f936a3d-bd46-4c18-86a6-de1b5d77711a</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>1uF</value>
+      <footprint>Capacitor_THT:C_Rect_L31.5mm_W9.0mm_P27.50mm_MKS4</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="beef_bridge.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9ae28543-0a7e-44ee-b1bc-14cf287029ba</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>S2JTR</value>
+      <footprint>Diode_SMD:D_SMB</footprint>
+      <datasheet>http://www.smc-diodes.com/propdf/S2A-S2M%20N0562%20REV.A.pdf</datasheet>
+      <libsource lib="Diode" part="S2JTR" description="600V 2A General Purpose Rectifier Diode, SMB"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="beef_bridge.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>764089a8-c08f-4e9a-b64f-74250f30ab91</tstamps>
+    </comp>
+    <comp ref="H1">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_Pad_Via</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="beef_bridge.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d7a40093-cbe3-4302-a147-bd7dd83b4ec0</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_Pad_Via</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="beef_bridge.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f6f2d000-0397-4026-b6ea-07454212b4fa</tstamps>
+    </comp>
+    <comp ref="H3">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_Pad_Via</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="beef_bridge.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3ca886da-38e4-4196-94e1-ec1698e36c90</tstamps>
+    </comp>
+    <comp ref="H4">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_Pad_Via</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="beef_bridge.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eff6aaf2-ac7f-4087-9871-4a0d9ae24a67</tstamps>
+    </comp>
+    <comp ref="H5">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_Pad_Via</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="beef_bridge.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ce33eab9-3c6c-44b4-8cdf-1d35c662bd84</tstamps>
+    </comp>
+    <comp ref="H6">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_Pad_Via</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="beef_bridge.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6803284c-60b9-4a44-8623-5a17a0e45e4c</tstamps>
+    </comp>
+    <comp ref="H7">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_Pad_Via</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="beef_bridge.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eb92cbb6-1611-4f27-beb4-50e684b7892f</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Screw_Terminal_01x02</value>
+      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="beef_bridge.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>48acbeeb-5947-4327-8a1b-4e3bdadab7c3</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Screw_Terminal_01x02</value>
+      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="beef_bridge.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>96b8d4b2-7105-4725-a303-a150b0f880b6</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>Screw_Terminal_01x02</value>
+      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="beef_bridge.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8dd8a122-df3e-433a-93c2-05355112c742</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>Conn_01x05_Male</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x05_Male" description="Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="beef_bridge.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>defa91a4-7a23-4baa-ac82-9bdb3e6c044d</tstamps>
+    </comp>
+    <comp ref="L1">
+      <value>33uH</value>
+      <footprint>Inductor_THT:L_Toroid_Vertical_L31.8mm_W15.9mm_P13.50mm_Bourns_5700</footprint>
+      <fields>
+        <field name="link">https://www.ebay.de/itm/175204535185?hash=item28cb010b91:g:gEYAAOSw4F9iMvUS&amp;amdata=enc%3AAQAHAAAA4J%2FcqT%2FeLiupdnw1qbZYAwhKvf8637p8Lxlye6F%2F3Lr%2BaPSn3gZl%2F3%2FMr1NytKftFaHa8s4dYU4pLUmsearkZ80pbvXySh9hTzVCDsaAZuq4N7cRxwq%2FSdV%2BT2cUw5vnOP3nrnaB7PYSMllFrYLmne8h94%2BbZGcFS6tkI2kPbfcss7lc28oP5lxLlWRMLeEAJMQd3yfiZqS5UqVZcczCfRgF8OT5V6K3HtpqW0A0%2Bhv2nlratWFPWMk99aJo%2BqzG5rKK%2FUaVvr9iUnbvrWvlLi1zqpNskijnpnYUJ3s2Zgqo%7Ctkp%3ABFBM3JnJgLpg</field>
+      </fields>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="link" value="https://www.ebay.de/itm/175204535185?hash=item28cb010b91:g:gEYAAOSw4F9iMvUS&amp;amdata=enc%3AAQAHAAAA4J%2FcqT%2FeLiupdnw1qbZYAwhKvf8637p8Lxlye6F%2F3Lr%2BaPSn3gZl%2F3%2FMr1NytKftFaHa8s4dYU4pLUmsearkZ80pbvXySh9hTzVCDsaAZuq4N7cRxwq%2FSdV%2BT2cUw5vnOP3nrnaB7PYSMllFrYLmne8h94%2BbZGcFS6tkI2kPbfcss7lc28oP5lxLlWRMLeEAJMQd3yfiZqS5UqVZcczCfRgF8OT5V6K3HtpqW0A0%2Bhv2nlratWFPWMk99aJo%2BqzG5rKK%2FUaVvr9iUnbvrWvlLi1zqpNskijnpnYUJ3s2Zgqo%7Ctkp%3ABFBM3JnJgLpg"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="beef_bridge.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9df483ad-5fe0-4930-bca3-b37396123776</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>STGP7NC60HD</value>
+      <footprint>Package_TO_SOT_THT:TO-220-3_Vertical</footprint>
+      <datasheet>http://www.farnell.com/datasheets/2309889.pdf</datasheet>
+      <libsource lib="Transistor_IGBT" part="STGP7NC60HD" description="25A, 600V, N-Channel IGBT, TO-220"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="beef_bridge.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5e60ffbb-fcb4-499f-bda1-a85c154d2ff2</tstamps>
+    </comp>
+    <comp ref="Q2">
+      <value>STGP7NC60HD</value>
+      <footprint>Package_TO_SOT_THT:TO-220-3_Vertical</footprint>
+      <datasheet>http://www.farnell.com/datasheets/2309889.pdf</datasheet>
+      <libsource lib="Transistor_IGBT" part="STGP7NC60HD" description="25A, 600V, N-Channel IGBT, TO-220"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="beef_bridge.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7b8de21d-b610-48d6-bac4-17cfa25c56e1</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>4.7</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="beef_bridge.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>284ab7c1-0b38-4cdd-b3f2-2289412c000a</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>4.7</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="beef_bridge.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fa9cae6a-b85c-49a4-8004-e852dea01726</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>IR2110S</value>
+      <footprint>Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm</footprint>
+      <datasheet>https://www.infineon.com/dgdl/ir2110.pdf?fileId=5546d462533600a4015355c80333167e</datasheet>
+      <libsource lib="Driver_FET" part="IR2110S" description="High and Low Side Driver, 500V, 2.0/2.0A, SOIC-16W"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="beef_bridge.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b3c46953-3930-4c4b-955c-cf16799e0859</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="Conn_01x05_Male">
+      <description>Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x05_Male</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Screw_Terminal_01x02">
+      <description>Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TerminalBlock*:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Screw_Terminal_01x02</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="L">
+      <description>Inductor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">L</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Diode" part="S2JTR">
+      <description>600V 2A General Purpose Rectifier Diode, SMB</description>
+      <docs>http://www.smc-diodes.com/propdf/S2A-S2M%20N0562%20REV.A.pdf</docs>
+      <footprints>
+        <fp>*D?SMB*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">S2JTR</field>
+        <field name="Footprint">Diode_SMD:D_SMB</field>
+        <field name="Datasheet">http://www.smc-diodes.com/propdf/S2A-S2M%20N0562%20REV.A.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Driver_FET" part="IR2110S">
+      <description>High and Low Side Driver, 500V, 2.0/2.0A, SOIC-16W</description>
+      <docs>https://www.infineon.com/dgdl/ir2110.pdf?fileId=5546d462533600a4015355c80333167e</docs>
+      <footprints>
+        <fp>SOIC*7.5x10.3mm*P1.27mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">IR2110S</field>
+        <field name="Footprint">Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm</field>
+        <field name="Datasheet">https://www.infineon.com/dgdl/ir2110.pdf?fileId=5546d462533600a4015355c80333167e</field>
+      </fields>
+      <pins>
+        <pin num="1" name="LO" type="output"/>
+        <pin num="2" name="COM" type="power_in"/>
+        <pin num="3" name="VCC" type="power_in"/>
+        <pin num="4" name="NC" type="no_connect"/>
+        <pin num="5" name="NC" type="no_connect"/>
+        <pin num="6" name="VS" type="passive"/>
+        <pin num="7" name="VB" type="passive"/>
+        <pin num="8" name="HO" type="output"/>
+        <pin num="9" name="NC" type="no_connect"/>
+        <pin num="10" name="NC" type="no_connect"/>
+        <pin num="11" name="VDD" type="power_in"/>
+        <pin num="12" name="HIN" type="input"/>
+        <pin num="13" name="SD" type="input"/>
+        <pin num="14" name="LIN" type="input"/>
+        <pin num="15" name="VSS" type="power_in"/>
+        <pin num="16" name="NC" type="no_connect"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole_Pad">
+      <description>Mounting Hole with connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*Pad*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole_Pad</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Transistor_IGBT" part="STGP7NC60HD">
+      <description>25A, 600V, N-Channel IGBT, TO-220</description>
+      <docs>http://www.farnell.com/datasheets/2309889.pdf</docs>
+      <footprints>
+        <fp>TO?220*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">STGP7NC60HD</field>
+        <field name="Footprint">Package_TO_SOT_THT:TO-220-3_Vertical</field>
+        <field name="Datasheet">http://www.farnell.com/datasheets/2309889.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="input"/>
+        <pin num="2" name="C" type="passive"/>
+        <pin num="3" name="E" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="Diode">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Diode.kicad_sym</uri>
+    </library>
+    <library logical="Driver_FET">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Driver_FET.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Mechanical.kicad_sym</uri>
+    </library>
+    <library logical="Transistor_IGBT">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Transistor_IGBT.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/HIN">
+      <node ref="J4" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U1" pin="12" pinfunction="HIN" pintype="input"/>
+    </net>
+    <net code="2" name="/HO">
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="HO" pintype="output"/>
+    </net>
+    <net code="3" name="/HOR">
+      <node ref="Q1" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+    </net>
+    <net code="4" name="/LIN">
+      <node ref="J4" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U1" pin="14" pinfunction="LIN" pintype="input"/>
+    </net>
+    <net code="5" name="/SHUTDOWN">
+      <node ref="J4" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U1" pin="13" pinfunction="SD" pintype="input"/>
+    </net>
+    <net code="6" name="/VB">
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="VB" pintype="passive"/>
+    </net>
+    <net code="7" name="/V_{dd}">
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="H7" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U1" pin="11" pinfunction="VDD" pintype="power_in"/>
+    </net>
+    <net code="8" name="/V_{drive}">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="H5" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="VCC" pintype="power_in"/>
+    </net>
+    <net code="9" name="/V_{power}">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="H6" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="Q1" pin="2" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="10" name="/out">
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="L1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="11" name="/unfiltered">
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="L1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="Q1" pin="3" pinfunction="E" pintype="passive"/>
+      <node ref="Q2" pin="2" pinfunction="C" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="VS" pintype="passive"/>
+    </net>
+    <net code="12" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="H1" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H2" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H3" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H4" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J4" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="Q2" pin="3" pinfunction="E" pintype="passive"/>
+      <node ref="U1" pin="15" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U1" pin="2" pinfunction="COM" pintype="power_in"/>
+    </net>
+    <net code="13" name="Net-(Q2-Pad1)">
+      <node ref="Q2" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+    </net>
+    <net code="14" name="Net-(R2-Pad1)">
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="LO" pintype="output"/>
+    </net>
+    <net code="15" name="unconnected-(U1-Pad4)">
+      <node ref="U1" pin="4" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="16" name="unconnected-(U1-Pad5)">
+      <node ref="U1" pin="5" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="17" name="unconnected-(U1-Pad9)">
+      <node ref="U1" pin="9" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="18" name="unconnected-(U1-Pad10)">
+      <node ref="U1" pin="10" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="19" name="unconnected-(U1-Pad16)">
+      <node ref="U1" pin="16" pinfunction="NC" pintype="no_connect"/>
+    </net>
+  </nets>
+</export>

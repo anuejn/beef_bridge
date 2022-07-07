@@ -1,0 +1,12 @@
+Comment,Designator,Footprint,LCSC
+"10uF","C1,C4,C5","Capacitor_SMD:C_1206_3216Metric",""
+"120uF","C2,C3","Capacitor_THT:CP_Radial_D18.0mm_P7.50mm",""
+"1uF","C6","Capacitor_THT:C_Rect_L31.5mm_W9.0mm_P27.50mm_MKS4",""
+"S2JTR","D1","Diode_SMD:D_SMB",""
+"MountingHole_Pad","H1,H2,H3,H4,H5,H6,H7","MountingHole:MountingHole_3.2mm_M3_Pad_Via",""
+"Screw_Terminal_01x02","J1,J2,J3","TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal",""
+"Conn_01x05_Male","J4","Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical",""
+"33uH","L1","Inductor_THT:L_Toroid_Vertical_L31.8mm_W15.9mm_P13.50mm_Bourns_5700",""
+"STGP7NC60HD","Q1,Q2","Package_TO_SOT_THT:TO-220-3_Vertical",""
+"4.7","R1,R2","Resistor_SMD:R_0603_1608Metric",""
+"IR2110S","U1","Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm",""
